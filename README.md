@@ -37,8 +37,8 @@ Produces concise summaries.
 
 ## Frontend Clients
 
-- Google Chrome Extension (Gmail integration)
-- Electron Desktop Sidebar (2 UI versions)
+- Google Chrome Extension 
+- Electron Desktop Sidebar 
 
 Both clients use the same backend.
 
